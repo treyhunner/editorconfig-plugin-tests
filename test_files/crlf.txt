@@ -1,3 +1,4 @@
 This file
 should have CRLF
-line endings
+line endings.
+Maybe saving it again will fix it?
