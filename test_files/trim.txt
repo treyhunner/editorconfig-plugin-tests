@@ -3,3 +3,5 @@ So does this one
 And this one	 
 But not this one
 hello
+trim this line!   
+trim it.  
